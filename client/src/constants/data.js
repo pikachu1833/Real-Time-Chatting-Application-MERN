@@ -1,0 +1,5 @@
+export const iconPDF = 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Pdf_File_Type_Adobe_logo_logos-512.png';
+export const defaultProfilePicture = 'https://www.bing.com/images/search?view=detailV2&ccid=51gJ6lvM&id=03585AE5B6CF139844C2189B7591C4B4B90B91D7&thid=OIP.51gJ6lvMj-UN34Fq7_Gu_gHaFq&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.e75809ea5bcc8fe50ddf816aeff1aefe%3Frik%3D15ELubTEkXWbGA%26riu%3Dhttp%253a%252f%252fcdn.wallpapersafari.com%252f19%252f59%252fIZmpfD.jpg%26ehk%3DyfSuZYKaWYB2F7gfCZsQWA3mpgjYk2Fz91tO7Lm7Xv8%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=1223&expw=1600&q=rose+flower&simid=608017978052858115&form=IRPRST&ck=1FD25D00537FBD2F4D9E7DDA9889A101&selectedindex=9&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11';
+export const emptyChatImage = 'https://i.gadgets360cdn.com/large/whatsapp_multi_device_support_update_image_1636207150180.jpg';
+export const qrCodeImage = 'https://www.ginifab.com/feeds/qr_code/img/qrcode.jpg';
+export const emptyProfilePicture = 'https://www.kindpng.com/picc/m/78-785827_user-profile-avatar-login-account-male-user-icon.png';
